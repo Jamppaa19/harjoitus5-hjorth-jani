@@ -1,0 +1,12 @@
+suoraan, 3
+kaanny, oikealle, 4
+suoraan, 3
+kaanny, oikealle, 4
+suoraan, 3
+kaanny, vasemmalle, 4
+suoraan, 3
+kaanny, vasemmalle, 4
+suoraan, 3
+kaanny, vasemmalle, 7
+taaksepain, 3
+pysayta
