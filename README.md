@@ -5,8 +5,8 @@ Ohjelmoinnin perusteiden harjoitus 5
 
 Täydennä tähän:
 
-- Nimi
-- Ryhmä
+- Jani Hjorth
+- Intkm26A2
 
 ## Projektin kuvaus
 
@@ -14,4 +14,4 @@ Kirjoita tähän projektin kuvaus.
 
 ## Käyttöohje
 
-Kirjoita tähän käyttöohjeet.
+Kirjoita tähän käyttöohjeet
